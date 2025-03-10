@@ -1,0 +1,33 @@
+<html>
+       <head>
+              <meta charset="utf-8" />
+              <title> Forms </title>
+       </head>
+       <body>
+              <h1> Registration FORM</h1>
+              <form>
+                        <label> First Name:<input type="text"name="Name"/> </label> <br /> <br />
+			<label> last Name:<input type="text"name="Name"/> </label> <br /> <br />
+			<label> user Name:<input type="text"name="Name"/> </label> <br /> <br />
+                        <label> password: <input type="password" name="password" /> </label> <br /> <br />
+			<label> Confirm password: <input type="password" name="password" /> </label> <br /> <br />
+                        <label> email:<input type="email" name="email"/> </label> <br /> <br />
+                        <label> Mobile Number:<input type="num" name="phn_num"/> </label> <br /> <br />
+                       <label>Gender:</label><input type="radio"name="Gender" value="M"/>Male </br></br> <input style="margin-left: 55px;" type="radio"name="Gender" value="F"/>Female<br/><br/>
+                        <label> Date of birth:<input type="date" name="die"/> </label> <br /> <br />
+			<label>Course :</label>
+			<select>
+				<option>B-Tech</option>
+				<option>MBA</option>
+				<option>MCA</option>
+				<option>BBA</option>
+			</select><br/><br/>
+			 <label>Nationality :</label><input type="radio"name="nationality" value="I"/>Indian <input type="radio"name="nationality" value="O"/>Other<br/><br/>
+			 <label> profile:<input type="file" name="file_choosen"/> </label> <br /> <br />
+			<input type="Submit" name="submit"/>  <input type="Reset" name="reset"/>  <br /> <br />
+
+			
+                     </form>
+       
+                </body>
+</html>
