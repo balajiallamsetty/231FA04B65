@@ -1,0 +1,37 @@
+<html>
+       <head>
+              <meta charset="utf-8" />
+              <title> Forms </title>
+       </head>
+       <body>
+              <h1> Registration FORM</h1>
+              <form action="./flag.html">
+                        <label> Full Name:<input type="text"name="Name"/> </label> <br /> <br />
+                        <label> password: <input type="password" name="password" /> </label> <br /> <br />
+                        <label> email:<input type="email" name="email"/> </label> <br /> <br />
+                        <label> Telephone:<input type="tel" name="telephone"/> </label> <br /> <br />
+                        <label> Mobile Number:<input type="num" name="phn_num"/> </label> <br /> <br />
+                        <label> Color:<input type="color" name="color"/> </label> <br /> <br />
+                        <label> This is hidden:<input type="hidden" name="hidden"/> </label> <br /> <br />
+                        <label> date of die:<input type="date" name="die"/> </label> <br /> <br />
+                        <label> week:<input type="week" name="week"/> </label> <br /> <br />	
+	                <label> sleeping time:<input type="time" name="sleepling time"/> </label> <br /> <br />
+			<label> date_local:<input type="month" name="born"/> </label> <br /> <br />
+                        <label> born date:<input type="date" name="dob"/> </label> <br /> <br />
+			<label> Range:<input type="range" name="range"/> </label> <br /> <br />
+                        <label> File:<input type="file" name="file_choosen"/> </label> <br /> <br />	
+			<label> Search:<input type="search" name="search"/> </label> <br /> <br />
+			<label> Radio:<input type="radio" name="gender" value="male"/>male </label> <br /> <br />
+			<label> Checkbox:<input type="radio" name="gender" value="female"/>female </label> <br /> <br />
+			<label> Languages Known: </label> <br /> <br />
+			<label> <input type="checkbox" name="language"/>telugu </label> <br /> <br />
+			<label> <input type="checkbox" name="language"/>hindi </label> <br /> <br />
+			<label> <input type="checkbox" name="language"/>english </label> <br /> <br />
+			<input type="Button" name="next_button" value="next"/> <br /> <br />
+			<input type="Submit" name="submit"/>  <br /> <br />
+			<input type="Reset" name="reset"/>  <br /> <br />
+ 
+ 		</form>
+       
+                </body>
+</html>
