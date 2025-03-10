@@ -1,0 +1,42 @@
+
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>A.S.S.S.Balaji(231FA04B65)</title>
+	</head>
+	<body>
+		<h1>Registration Form</h1>
+			<label>Registration no:<input type="text"name="Registration no"/><label><br/><br/>
+			<label>Name :<input type="text"name="Name"/></label><br/><br/>
+			<label>Email Id:<input type="email"name="Email"/></label><br/><br/>
+			<label>Mobile Number:<input type="number"name="PhNo:"/></label><br/><br/>
+			<label>Date of Birth :<input type="date"name="date"/></label><br/><br/>
+			<label>Gender:</label><input type="radio"name="Gender" value="M"/>Male <input type="radio"name="Gender" value="F"/>Female<br/><br/>
+			<label>esports:</label><br/>
+			<input type="checkbox"name="Language" value="Free Fire"/> Free Fire<br/>
+			<input type="checkbox"name="Language" value="BGMI"/>BGMI <br/>
+			<input type="checkbox"name="Language" value="Fortnite"/>Fortnite<br/>
+			<input type="checkbox"name="Language" value="Call of Duty"/>Call of Duty<br/><br/>
+                        <label>Team type:</label> <input type="radio"name="Team type" value="S"/>Solo <input type="radio"name="Team type" value="D"/>Duo <input type="radio"name="Team type" value="s"/>Squad<br/><br/>
+			<label>College :</label>
+			<select>
+				<option>Vignan's Foundation for Science, Technology & Research is a Deemed university</option>
+				<option>Narasaraopeta Engineering College</option>
+				<option>R. V. R. & J. C. College of Engineering</option>
+				<option>Acharya Nagarjuna University</option>
+				<option>Kits Engineering College.</option>
+				<option>Chebrolu Engineering College</option>
+				<option>Kallam Haranadhareddy Institute of Technology</option>
+				<option>Chalapathi Institute of Engineering and Technology</option>
+				<option> Newton's Institute of Science and Technology</option>
+				<option>KKR and KSR Institute of Technology and Sciences (KITS Guntur)</option>
+			</select><br/><br/>
+			<label>Any quires :</label>
+			<textarea></textarea> <br/><br/>
+			<label>Passport photo :</label>
+			<input type="file"name="Passport photo"/><br/><br/>
+			<input type="reset"name="clearall_button"value="Clearall"/><br/><br/>
+			<input type="submit"/>	
+		</form>
+	</body>
+</html>
