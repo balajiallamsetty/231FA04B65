@@ -1,0 +1,135 @@
+<!doctype html>
+<html>
+	<header>
+		<meta charset="utf-8">
+		<title> Time Table</title>
+	</header>
+	<body text align="center">
+		<h1>Section-N Timetable</h1>
+		<table border="1"  cellpadding="5" cellspacing="0" text align="center">
+			<tr>
+				<th colspan="10"><center>2N-504</center></th>
+			</tr>
+			<tr>
+				<th>Day</th>
+				<th>08:15-09:10</br>01</th>
+				<th>09:10-10.05</br>02</th>
+				<th>10:5-10:20</th>
+				<th>10:20-11:15</br>03</th>
+				<th>11:15-12:10</br>04</th>
+				<th>10:10-01:05</br>05</th>
+				<th>01:05-02:00</th>
+				<th>02:00-02:55</br>06</th>
+				<th>02:55-03:50</br>07</th>
+			</tr>
+			<tr>
+				<td>MON	</td>
+				<td colspan="2">FAD</td>
+				<td rowspan="6">BREAK</td>
+				<td>NPTEL-507</td>
+				<td>DAA-507</td>
+				<td>TOC-507</td>
+				<td rowspan="6">BREAK</td>
+				<td colspan="2">OS-507</td>
+			</tr>
+			<tr>
+				<td>TUE</td>
+				<td colspan="2">PC LAB</td>
+				<td colspan="2">DAA-P</td>
+				<td>CCPS</td>
+				<td colspan="2">OS-P</td>
+			</tr>
+			<tr>
+				<td>WED</td>
+				<td colspan="2">CC</td>
+				<td>DAA</td>
+				<td>TOC</td>
+				<td>NPTEL</td>
+				<td>OS</td>
+				<td>COA</td>
+			</tr>
+			<tr>
+				<td>THU</td>
+				<td colspan="2">COA</td>
+				<td colspan="2" bgcolor="yellow">CCPS</td>
+				<td>TOC</td>
+				<td colspan="2">FAD</td>
+			</tr>
+			<tr>
+				<td>FRI</td>
+				<td colspan="2">CC</td>
+				<td >COA</td>
+				<td colspan="2">TOC-T-507</td>
+				<td colspan="2">FP</td>
+			</tr>
+			<tr>
+				<td>SAT</td>
+				<td colspan="2" bgcolor="yellow">T5 ASSESMENT</td>
+				<td colspan="2">CC</td>
+				<td>COA</td>
+				<td colspan="2">DAA-T</td>
+			</tr>
+			<tr>
+				<td colspan="3">FACULTY ADVICER</td>
+				<td colspan="7">Mrs.Tanigundala Leelavathy</td>
+			</tr>
+			<tr>
+				<td colspan="3">COA</td>
+				<td colspan="7">Dr.D.Lakshmi Srinivas(9493442130)</td>
+			</tr>
+			<tr>
+				<td colspan="3">COA(TUTORIAL)</td>
+				<td colspan="7">Dr.D.Lakshmi Srinivas(9493442130)</td>
+			</tr>
+			<tr>
+				<td colspan="3">CCPS</td>
+				<td colspan="7" bgcolor="yellow">Mr.Ram Mohan, M.Vyshanavi, T.Venkateswara Rao</td>
+			</tr>
+			<tr>
+				<td colspan="3">DAA</td>
+				<td colspan="7">Mrs.G.Navya(7794993678), V.Sowmya, B.sowmya, N.Vinay Kumar</td>
+			</tr>
+			<tr>
+				<td colspan="3">DAA(TrANSACTION/PRACTICE)</td>
+				<td colspan="7">Mrs.G.Navya(7794993678)</td>
+			</tr>
+			<tr>
+				<td colspan="3">FAD</td>
+				<td colspan="7">Mr.Y.Rambabu, K.Sucharitha, Subham Agrwal, CH.bhavana</td>
+			</tr>
+			<tr>
+				<td colspan="3">OS</td>
+				<td colspan="7">Mr.Kumar Devapogu, M.Hruthik, K.Revanth,K.Himaja</td>
+			</tr>
+			<tr>
+				<td colspan="3">OS(PRATICE)</td>
+				<td colspan="7">Mr.Kumar Devapogu</td>
+			</tr>
+			<tr>
+				<td colspan="3">PC LAB</td>
+				<td colspan="7">Mr.Syam Prasad Reddy(7794057584)</td>
+			</tr>
+			<tr>
+				<td colspan="3">TOC</td>
+				<td colspan="7">Mrs.Tanigundala Leelavathy</td>
+			</tr>
+			<tr>
+				<td colspan="3">TOC(TUTORIAL)</td>
+				<td colspan="7">Mrs.Tanigundala Leelavathy, Jysohna Priya, Geetha Sri, L.Jyothi</td>
+			</tr>
+			<tr>
+				<td colspan="3">CC</td>
+				<td colspan="7">Mr.Ajith</td>
+			</tr>
+			<tr>
+				<td colspan="3">FP</td>
+				<td colspan="7" bgcolor="yellow">Mr.K.Pavan Kumar</td>
+			</tr>
+			<tr>
+				<td colspan="3">NPTEL</td>
+				<td colspan="7">Mrs.Pravalika</td>
+			</tr>	
+		
+		</table>
+	</body>
+</html>
